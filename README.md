@@ -1,13 +1,4 @@
-sum bugs
-else:
-    print("length is the same")  # ✅ Fixed
+i learn all form this repo:
+https://github.com/Asabeneh/30-Days-Of-Python/tree/master/01_Day_Introduction
 
-
-
-I Learned
-Variables: strings, booleans, lists, integers, floats
-Data types: type() to check what something is
-Conditionals: if/elif/else with len() comparison
-Python uses snake_case for variables
-
-still learning github 
+just wanna stay productive lol
