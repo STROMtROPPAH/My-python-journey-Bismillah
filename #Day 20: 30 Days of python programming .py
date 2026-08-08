@@ -2,5 +2,5 @@ sentence = '''%I $am@% a %tea@cher%, &and& I lo%#ve %tea@ching%;. There $is noth
 
 import re
 
-clean = re.sub(r'^a-zA-Z\s]', '', sentence)
+clean = re.sub(r'[^a-zA-Z\s]', '', sentence)
 print(clean)
